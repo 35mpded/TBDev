@@ -1,1 +1,2 @@
-# TBDev
+This repo contains various versions of TBDev tracker.
+Some of the functions used by TBDev are deprecated in newer versions of PHP. To quickly setup an instance of TBDev use the provided xampp package `xampp-win32-1.7.7-VC9-installer.7z` (password is `original`)
